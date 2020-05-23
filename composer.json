@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "aki\\payment\\": ""
+            "aki\\payment\\": "src"
         }
     }
 }

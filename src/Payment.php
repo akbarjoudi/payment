@@ -5,7 +5,7 @@ namespace aki\payment;
 /**
  * This is just an example.
  */
-class AutoloadExample extends \yii\base\Widget
+class Payment extends \yii\base\Widget
 {
     public function run()
     {
