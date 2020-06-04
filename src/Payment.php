@@ -2,13 +2,12 @@
 
 namespace aki\payment;
 
+use yii\base\Component;
+
 /**
  * This is just an example.
  */
-class Payment extends \yii\base\Widget
+class Payment extends Component
 {
-    public function run()
-    {
-        return "Hello!";
-    }
+    
 }
